@@ -17,6 +17,8 @@ Serverless Functions running on Vercel: https://template-go-api.vercel.app/
 
 You can find a written version here: [medium.com/geekculture/getting-started-with-go-on-vercel-a6125de4b868](https://medium.com/geekculture/getting-started-with-go-on-vercel-a6125de4b868?source=friends_link&sk=e6aa8ab4808d6f4f2c9fcadee006940e)
 
+## helloworld2026
+
 ## Credits
 
 [Created by @riccardogiorato](https://github.com/riccardogiorato/template-go-vercel)
